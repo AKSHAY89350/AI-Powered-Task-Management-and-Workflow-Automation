@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AI-Powered Task Management and Workflow Automation\\Task Management\\Task Management\\Task Management.csproj",
+      "projectUniqueName": "E:\\AI-Powered Task Management and Workflow Automation\\TaskManagementAPI\\Task Management\\Task Management.csproj",
       "projectName": "Task Management",
-      "projectPath": "E:\\AI-Powered Task Management and Workflow Automation\\Task Management\\Task Management\\Task Management.csproj",
+      "projectPath": "E:\\AI-Powered Task Management and Workflow Automation\\TaskManagementAPI\\Task Management\\Task Management.csproj",
       "packagesPath": "C:\\Users\\Akshay Kumar\\.nuget\\packages\\",
-      "outputPath": "E:\\AI-Powered Task Management and Workflow Automation\\Task Management\\Task Management\\obj\\",
+      "outputPath": "E:\\AI-Powered Task Management and Workflow Automation\\TaskManagementAPI\\Task Management\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Akshay Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",

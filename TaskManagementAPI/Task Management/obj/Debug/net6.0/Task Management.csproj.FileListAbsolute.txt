@@ -1,0 +1,33 @@
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\bin\Debug\net6.0\appsettings.Development.json
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\bin\Debug\net6.0\appsettings.json
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\bin\Debug\net6.0\Task Management.exe
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\bin\Debug\net6.0\Task Management.deps.json
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\bin\Debug\net6.0\Task Management.runtimeconfig.json
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\bin\Debug\net6.0\Task Management.dll
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\bin\Debug\net6.0\Task Management.pdb
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\Task Management.csproj.AssemblyReference.cache
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\Task Management.GeneratedMSBuildEditorConfig.editorconfig
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\Task Management.AssemblyInfoInputs.cache
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\Task Management.AssemblyInfo.cs
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\Task Management.csproj.CoreCompileInputs.cache
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\Task Management.MvcApplicationPartsAssemblyInfo.cs
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\Task Management.MvcApplicationPartsAssemblyInfo.cache
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\Task Management.sourcelink.json
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\staticwebassets.build.json
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\staticwebassets.development.json
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\staticwebassets\msbuild.Task Management.Microsoft.AspNetCore.StaticWebAssets.props
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\staticwebassets\msbuild.build.Task Management.props
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Task Management.props
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Task Management.props
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\staticwebassets.pack.json
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\scopedcss\bundle\Task Management.styles.css
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\Task Man.5CF54EC1.Up2Date
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\Task Management.dll
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\refint\Task Management.dll
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\Task Management.pdb
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\Task Management.genruntimeconfig.cache
+E:\AI-Powered Task Management and Workflow Automation\TaskManagementAPI\Task Management\obj\Debug\net6.0\ref\Task Management.dll

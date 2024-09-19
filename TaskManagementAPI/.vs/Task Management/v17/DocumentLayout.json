@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\AI-Powered Task Management and Workflow Automation\\Task Management\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\AI-Powered Task Management and Workflow Automation\\TaskManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E804C5B-425A-499F-B4FC-C50D5133A19F}|Task Management\\Task Management.csproj|e:\\ai-powered task management and workflow automation\\taskmanagementapi\\task management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E804C5B-425A-499F-B4FC-C50D5133A19F}|Task Management\\Task Management.csproj|solutionrelative:task management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\AI-Powered Task Management and Workflow Automation\\TaskManagementAPI\\Task Management\\appsettings.json",
+              "RelativeDocumentMoniker": "Task Management\\appsettings.json",
+              "ToolTip": "E:\\AI-Powered Task Management and Workflow Automation\\TaskManagementAPI\\Task Management\\appsettings.json",
+              "RelativeToolTip": "Task Management\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T09:15:40.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

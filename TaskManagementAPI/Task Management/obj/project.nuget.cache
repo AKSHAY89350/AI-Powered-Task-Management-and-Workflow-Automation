@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LekdVdVmUZpynWPEsoBOgLdXsRBZWHsqJWAhc2s5SqqNT8ZFzo0Z8OAjMn5LwPdCdyY92GJRH7U846NLHw032g==",
+  "dgSpecHash": "RRTq6Rpdwr0/YUG7K1lejfLNzr4Mtpdtu7fMqEZgh117OWRXobQ9QcoP952L8dpb42O4uAWbNKh4B8MUYvrn7A==",
   "success": true,
-  "projectFilePath": "E:\\AI-Powered Task Management and Workflow Automation\\Task Management\\Task Management\\Task Management.csproj",
+  "projectFilePath": "E:\\AI-Powered Task Management and Workflow Automation\\TaskManagementAPI\\Task Management\\Task Management.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Akshay Kumar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Akshay Kumar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
