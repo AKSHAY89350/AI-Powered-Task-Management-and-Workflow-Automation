@@ -1,0 +1,54 @@
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Task_Management.Model;
+
+namespace Task_Management.Controllers
+{
+    [Route("api/[controller]")]
+    [ApiController]
+    public class TaskController : ControllerBase
+    {
+        private readonly ContextDB _context;
+
+        public TaskController(ContextDB context)
+        {
+            _context = context;
+        }
+
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Model.Task>>> GetTasks()
+        {
+            return await _context.Tasks.ToListAsync();
+        }
+
+        [HttpPost]
+        public async Task<ActionResult<Model.Task>> CreateTask(Model.Task task)
+        {
+            _context.Tasks.Add(task);
+            await _context.SaveChangesAsync();
+            return CreatedAtAction(nameof(GetTasks), new { id = task.Id }, task);
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateTask(int id, Model.Task task)
+        {
+            if (id != task.Id) return BadRequest();
+            _context.Entry(task).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
+            return NoContent();
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteTask(int id)
+        {
+            var task = await _context.Tasks.FindAsync(id);
+            if (task == null) return NotFound();
+            _context.Tasks.Remove(task);
+            await _context.SaveChangesAsync();
+            return NoContent();
+        }
+    }
+
+    
+}
