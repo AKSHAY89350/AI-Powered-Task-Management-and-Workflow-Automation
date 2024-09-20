@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{0E804C5B-425A-499F-B4FC-C50D5133A19F}|Task Management\\Task Management.csproj|e:\\ai-powered task management and workflow automation\\taskmanagementapi\\task management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0E804C5B-425A-499F-B4FC-C50D5133A19F}|Task Management\\Task Management.csproj|solutionrelative:task management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E804C5B-425A-499F-B4FC-C50D5133A19F}|Task Management\\Task Management.csproj|e:\\ai-powered task management and workflow automation\\taskmanagementapi\\task management\\model\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E804C5B-425A-499F-B4FC-C50D5133A19F}|Task Management\\Task Management.csproj|solutionrelative:task management\\model\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E804C5B-425A-499F-B4FC-C50D5133A19F}|Task Management\\Task Management.csproj|e:\\ai-powered task management and workflow automation\\taskmanagementapi\\task management\\migrations\\20240920084321_add-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E804C5B-425A-499F-B4FC-C50D5133A19F}|Task Management\\Task Management.csproj|solutionrelative:task management\\migrations\\20240920084321_add-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E804C5B-425A-499F-B4FC-C50D5133A19F}|Task Management\\Task Management.csproj|e:\\ai-powered task management and workflow automation\\taskmanagementapi\\task management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E804C5B-425A-499F-B4FC-C50D5133A19F}|Task Management\\Task Management.csproj|solutionrelative:task management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E804C5B-425A-499F-B4FC-C50D5133A19F}|Task Management\\Task Management.csproj|e:\\ai-powered task management and workflow automation\\taskmanagementapi\\task management\\model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E804C5B-425A-499F-B4FC-C50D5133A19F}|Task Management\\Task Management.csproj|solutionrelative:task management\\model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240920084321_Add-Migration.cs",
+              "DocumentMoniker": "E:\\AI-Powered Task Management and Workflow Automation\\TaskManagementAPI\\Task Management\\Migrations\\20240920084321_Add-Migration.cs",
+              "RelativeDocumentMoniker": "Task Management\\Migrations\\20240920084321_Add-Migration.cs",
+              "ToolTip": "E:\\AI-Powered Task Management and Workflow Automation\\TaskManagementAPI\\Task Management\\Migrations\\20240920084321_Add-Migration.cs",
+              "RelativeToolTip": "Task Management\\Migrations\\20240920084321_Add-Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:43:22.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AI-Powered Task Management and Workflow Automation\\TaskManagementAPI\\Task Management\\Program.cs",
+              "RelativeDocumentMoniker": "Task Management\\Program.cs",
+              "ToolTip": "E:\\AI-Powered Task Management and Workflow Automation\\TaskManagementAPI\\Task Management\\Program.cs",
+              "RelativeToolTip": "Task Management\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:33:52.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContextDB.cs",
+              "DocumentMoniker": "E:\\AI-Powered Task Management and Workflow Automation\\TaskManagementAPI\\Task Management\\Model\\ContextDB.cs",
+              "RelativeDocumentMoniker": "Task Management\\Model\\ContextDB.cs",
+              "ToolTip": "E:\\AI-Powered Task Management and Workflow Automation\\TaskManagementAPI\\Task Management\\Model\\ContextDB.cs",
+              "RelativeToolTip": "Task Management\\Model\\ContextDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:27:15.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task.cs",
+              "DocumentMoniker": "E:\\AI-Powered Task Management and Workflow Automation\\TaskManagementAPI\\Task Management\\Model\\Task.cs",
+              "RelativeDocumentMoniker": "Task Management\\Model\\Task.cs",
+              "ToolTip": "E:\\AI-Powered Task Management and Workflow Automation\\TaskManagementAPI\\Task Management\\Model\\Task.cs",
+              "RelativeToolTip": "Task Management\\Model\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:24:35.301Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +92,7 @@
               "RelativeDocumentMoniker": "Task Management\\appsettings.json",
               "ToolTip": "E:\\AI-Powered Task Management and Workflow Automation\\TaskManagementAPI\\Task Management\\appsettings.json",
               "RelativeToolTip": "Task Management\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-19T09:15:40.278Z",
               "EditorCaption": ""
